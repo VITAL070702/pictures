@@ -1,5 +1,5 @@
 Image-list{
-    column: 6 200px;
+    columns: 6 200px;
     column-gap:10px;
 }
 
