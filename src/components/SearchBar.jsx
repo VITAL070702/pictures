@@ -27,3 +27,5 @@ const SearchBar = ({ onSubmit }) => {
 }
 
 export default SearchBar
+
+

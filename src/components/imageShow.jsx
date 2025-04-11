@@ -1,4 +1,3 @@
-
 const ImageShow = ({image}) => {
   return (
     <div>
